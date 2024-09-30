@@ -4,5 +4,5 @@ This Repo has the resources from which i have learnt about linkers, static and d
 
 [-]https://lwn.net/Articles/276782/  - A TOC of 20 part blog on linkers by IAN, the creator of gold
 
-[-] Computer Systems-A programmers perspective
+[-] Computer Systems-A programmers perspective Chapter(7)
 
